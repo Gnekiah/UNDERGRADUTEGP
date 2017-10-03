@@ -1,0 +1,7 @@
+*.usg
+*.out
+*.in
+*.err
+*.rpt
+rsapub.key
+*.unrpt
