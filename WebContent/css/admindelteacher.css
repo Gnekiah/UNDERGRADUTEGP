@@ -1,0 +1,36 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: center;
+  background-color: #eee;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#main {
+  padding: 15px;
+  margin-top: 10px;
+  border-radius: 8px
+  -moz-box-shadow: 2px 2px 10px #909090;
+  -webkit-box-shadow: 2px 2px 10px #909090;
+  box-shadow:2px 2px 10px #909090;
+  background-color: #fff;
+}
+
+.placeholders {
+  margin-bottom: 30px;
+  text-align: center;
+}
+.placeholders h4 {
+  margin-bottom: 0;
+}
+.placeholder {
+  margin-bottom: 20px;
+}
+.placeholder img {
+  display: inline-block;
+  border-radius: 50%;
+}
+
+
