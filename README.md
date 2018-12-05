@@ -1,2 +1,1 @@
-# UndergraduateGP
-Undergraduate graduation project
+Removed by Ene.
